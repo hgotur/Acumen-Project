@@ -1,0 +1,32 @@
+body
+{
+	background-color: white;
+}
+
+#tournament-setup-title
+{
+	color: white;
+	text-align: center;
+	font-size: 4em;
+	margin: 10px 10px 20px 10px;
+	padding: 10px;
+	background-color: rgba(21, 55, 87, 1);
+	border: solid;
+	border-color: rgba(139, 211, 219, 1);
+}
+
+#form-table
+{
+	color:white;
+	border: solid;
+	border-color: rgba(229, 137, 118, 1);
+	background-color: rgba(87, 20, 23, 1);
+	margin: 0 auto;
+	padding: 10px 25px 10px 25px;
+}
+
+#finished-submit
+{
+	text-align: center;
+	margin: 10px;
+}
